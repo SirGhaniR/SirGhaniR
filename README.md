@@ -4,6 +4,10 @@ I am a Web Developer student at SMK Prakarya International, focused on Backend a
 
 ![SirGhaniR's Stats](https://github-readme-stats.vercel.app/api?username=SirGhaniR&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true$include_all_commits=true)
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)
+[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirGhaniR&layout=compact&theme=catppuccin_mocha&hide_border=true&show_icons=true")
+
 ## 🚀 About Me
 
 - 🔭 I'm currently studying Web Developing at SMK Prakarya Internasional.
@@ -12,9 +16,6 @@ I am a Web Developer student at SMK Prakarya International, focused on Backend a
 - ⚙️ One of my favorite things to do is configuring my Wayland compositor.
 - ✍️ I'm using VSCodium but slowly transitioning to Neovim as my text editor.
 - 😏 My OS is Arch and I use Hyprland btw...
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
