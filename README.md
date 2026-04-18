@@ -16,7 +16,7 @@ I am a Web Developer student at SMK Prakarya International, focused on Backend a
 
 ## 🪎 Goal in Life
 
-My **Ultimate Goal** is to be able to make an open-source project that millions of people world-wide will use. Before that, I'm going to become **the** contributor for all open-source projects that I use and give back to the communities. I hope this goal of mine will be reality and not just a dream I'm longing for forever in death.
+My **Ultimate Goal** is to be able to make an open-source project that millions of people world-wide will use. Before that, I'm going to become **the** contributor for all open-source projects that I use and give back to the communities. I truly hope this goal of mine will become reality and not just a dream I'm longing for forever in death.
 
 
 ## 🚀 About Me
