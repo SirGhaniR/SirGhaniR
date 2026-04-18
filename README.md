@@ -4,8 +4,15 @@ I am a Web Developer student at SMK Prakarya International, focused on Backend a
 
 ![SirGhaniR's Stats](https://github-readme-stats.vercel.app/api?username=SirGhaniR&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true$include_all_commits=true)
 
+
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)
+| Icon | Name |
+| :---: | :---: |
+| <a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a> | `MongoDB` |
+| <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a> | `Express.js` |
+| <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a> | `React` |
+| <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a> | `Node.js` |
+
 
 ## 🚀 About Me
 
@@ -14,7 +21,9 @@ I am a Web Developer student at SMK Prakarya International, focused on Backend a
 - 🌟 I mainly use open-source projects for all my tools.
 - ⚙️ One of my favorite things to do is configuring my Wayland compositor.
 - ✍️ I'm using VSCodium but slowly transitioning to Neovim as my text editor.
+- 📚 Lord of the Mysteries, Omniscient Reader's Viewpoint, and Shadow Slave are my favorite novels.
 - 😏 My OS is Arch and I use Hyprland btw...
+
 
 ## 🌱 Currently Exploring
 
@@ -22,9 +31,10 @@ I am a Web Developer student at SMK Prakarya International, focused on Backend a
   - Exploring the ins and outs of Node.js and Express.js for an unopinionated server experiences.
   - Building server-side applications with Express.js, a powerful Node.js (JS runtime) web framework.
   - Diving into MongoDB for efficient and scalable database management.
-- </> Learning Frontend Web Development
+- 👔 Learning Frontend Web Development
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
+
 
  ## 🏆 Achievements
 
