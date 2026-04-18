@@ -6,7 +6,6 @@ I am a Web Developer student at SMK Prakarya International, focused on Backend a
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)
-[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirGhaniR&layout=compact&theme=catppuccin_mocha&hide_border=true&show_icons=true")
 
 ## 🚀 About Me
 
