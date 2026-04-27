@@ -8,10 +8,10 @@ I am a Web Developer student at SMK Prakarya International, focused on Backend a
 ## Tech Stack
 | Icon | Name |
 | :---: | :---: |
-| <a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a> | `MongoDB` |
-| <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a> | `Express.js` |
-| <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a> | `React` |
-| <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a> | `Node.js` |
+| <a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a> | [`MongoDB`](https://mongodb.com) |
+| <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a> | [`Express.js`](https://expressjs.com) |
+| <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a> | [`React`](https://react.dev) |
+| <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a> | [`Node.js`](https://nodejs.org) |
 
 
 ## 🪎 Goal in Life
