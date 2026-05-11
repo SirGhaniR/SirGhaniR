@@ -2,7 +2,7 @@
 
 I am a Web Developer student at SMK Prakarya International, focused on Backend and slowly transitioning into Fullstack in the future. My journey involves delving into the world of computer science, and exploring new ideas. I mainly use the MERN stack for my projects.
 
-![SirGhaniR's Stats](https://github-readme-stats.vercel.app/api?username=SirGhaniR&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true$include_all_commits=true)
+![SirGhaniR's Stats](https://github-stats-extended.vercel.app/api?username=SirGhaniR&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true$include_all_commits=true)
 
 
 ## Tech Stack
