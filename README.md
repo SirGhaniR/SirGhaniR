@@ -26,7 +26,7 @@ My **Ultimate Goal** is to be able to make an open-source project that millions 
 - 📖 I love to read the documentation of projects that I use.
 - 🌟 I mainly use open-source projects for all my tools.
 - ⚙️ One of my favorite things to do is configuring my Wayland compositor.
-- ✍️ I'm using VSCodium but slowly transitioning to Neovim as my text editor.
+- ⌨️ I'm using Neovim as my main text editor. No 🐀 needed.
 - 📚 Lord of the Mysteries, Omniscient Reader's Viewpoint, and Shadow Slave are my favorite novels.
 - 😏 My OS is Arch and I use Hyprland btw...
 
